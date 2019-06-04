@@ -424,6 +424,7 @@ defaultResolvers.default = first
 defaultResolvers.definitions = defaultResolvers.dependencies
 defaultResolvers.description = first
 defaultResolvers.examples = examples
+defaultResolvers.example = first
 defaultResolvers.exclusiveMaximum = minimumValue
 defaultResolvers.exclusiveMinimum = maximumValue
 defaultResolvers.maximum = minimumValue
